@@ -3,8 +3,9 @@
 # Last updated: 12/14/2025 by ANB
 
 # PLEASE READ: This script assumes you have run the following:
-    # july_2025_16S_dada2.R
-    # august_2025_16S_dada2.R
+    # DADA2_16S_July2025.R
+    # DADA2_16S_Aug2025.R
+    # NOTE: Not using sequences from Nov 2024 due to low quality
 
 # Setup Environ----
 ## Load libraries----
